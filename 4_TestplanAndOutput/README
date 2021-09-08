@@ -1,18 +1,16 @@
 Test Plan
 
-Test_Id	description	Expected_input	Expected_output	Actual_output	Pass/fail
+Test_Id	description	Expected_input	Expected_output	     Actual_output	Pass/fail
 Tid_01	1.adding	Name:hsdhbc
-Phno:7345765
-Email:yghdb@gmail	Contact added	Contact added	pass
-Tid_02	2.delete	Name:hbsdb	deleted	deleted	pass
-Tid_03	3 modify	Name:fguygug	modify	modify	Pass
-Tid_04	4  search	Name:tscd	tscd	tscd	pass
-Tid_05	5 display	Name:tscd	Tscd
+                  Phno:7345765
+                  Email:yghdb@gmail	Contact added   	    Contact added	   pass
+Tid_02	2.delete	Name:hbsdb	       deleted	             deleted	       pass
+Tid_03	3 modify	Name:fguygug	     modify	                modify	       Pass
+Tid_04	4  search	Name:tscd	         tscd	                  tscd	         pass
+Tid_05	5 display	Name:tscd	         Tscd                   Tscd           pass
+                                     76667                  76667
+                                     hgvcv@gmail	       hgvcv@gmail.com   pass       
 Tid_06	6 exit				
-766678
-hgvcv@gmail	Tscd
-766678
-hgvcv@gmail	pass
 Tid_06	6 exit				
 Tid_07	2 delete	Name :vbvb	notfound	notfound	pass
 
